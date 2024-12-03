@@ -19,7 +19,7 @@ By combining sophisticated speech processing with the generative power of the Go
 Clone the repository
 
 ```bash
-Project repo: [https://github.com/](https://github.com/paras-dahiya/Multilingual-ai-voice-assistant)
+Project repo: (https://github.com/paras-dahiya/Multilingual-ai-voice-assistant)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
