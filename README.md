@@ -10,13 +10,16 @@ Built entirely in Python, the project integrates various libraries and APIs for 
 
 By combining sophisticated speech processing with the generative power of the Google Gemini model, this project bridges communication gaps and fosters inclusivity.
 
+# Demo
+![Demo](https://github.com/paras-dahiya/Multilingual-ai-voice-assistant/blob/master/demo/Screenshot%202024-12-03%20215614.png)
+
 # How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: [https://github.com/](https://github.com/paras-dahiya/Multilingual-ai-voice-assistant)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
